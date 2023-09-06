@@ -2,6 +2,11 @@
 - 🌱 Wenn ich nicht in der Programmierung vertieft bin, findet man mich oft dabei, wundervolle Erinnerungen mit ihnen zu schaffen.
 - 🦾 Ich bin gerade Teilnehmer an einem Full-Stack Web Developer Kurs bei DCI
 
+### Language
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.coursera.org/account/accomplishments/certificate/EM65U7QESE4M)
+
 ### Version Control
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alkanaziz)
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/alkanaziz)
