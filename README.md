@@ -1,13 +1,13 @@
 - 👋 Hey, ich bin Alkan, ein leidenschaftlicher Webentwickler-Kandidat mit einer Vorliebe für Coding und Problemlösung, der die gemeinsame Zeit mit meiner Familie, insbesondere meiner Tochter, schätzt.
 - 🌱 Wenn ich nicht in der Programmierung vertieft bin, findet man mich oft dabei, wundervolle Erinnerungen mit ihnen zu schaffen.
 - 🦾 Ich bin gerade Teilnehmer an einem Full-Stack Web Developer Kurs bei DCI
-
+!function(){for(var e=document.body.getElementsByTagName("a"),t=e.length,n=0;n<t;n++)new URL(e[n].href).origin!==location.origin&&e[n].setAttribute("target","_blank")}();
 ### Language
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.coursera.org/account/accomplishments/certificate/EM65U7QESE4M)
 
-<a href="https://www.coursera.org/account/accomplishments/certificate/EM65U7QESE4M" target="_blank">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
+<a href="https://www.coursera.org/account/accomplishments/certificate/EM65U7QESE4M" target="_blank">here</a>
 
 
 ### Version Control
