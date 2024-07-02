@@ -1,12 +1,30 @@
 - 👋 Hey, ich bin Alkan, ein leidenschaftlicher Webentwickler-Kandidat mit einer Vorliebe für Coding und Problemlösung, der die gemeinsame Zeit mit meiner Familie, insbesondere meinen Töchtern, schätzt.
 - 🌱 Wenn ich nicht in der Programmierung vertieft bin, findet man mich oft dabei, wundervolle Erinnerungen mit meiner Familie zu schaffen.
-- 🦾 Ich bin gerade Teilnehmer an einem Full-Stack Web Developer Kurs bei DCI, um einen Full-Stack Web Entwickler zu werden.
+- 🦾 Ich bin ein Full-Stack Webentwickler, spezialisiert auf MERN Stack, der gerne Bugs 🕷️ produziert und behebt.
 
-### Language
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/AZFSPCMWAT2L)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/AZFSPCMWAT2L)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.coursera.org/account/accomplishments/verify/BS3R9CHYRYGY)
+### Programming Languages
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://coursera.org/share/95fb216278873a4282b203d79ab26634)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.coursera.org/account/accomplishments/certificate/EM65U7QESE4M)
+
+### MARKUP Language
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://coursera.org/share/c2f2c4144b8dbb54b2edeab8eeaac6a4)
+
+### CSS Styling
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://coursera.org/share/c2f2c4144b8dbb54b2edeab8eeaac6a4)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
+[![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)](#)
+
+### Frontend Library and Framework
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://coursera.org/share/09726e6ad0cbf1b28707b973b1ee4ca2)
+[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
+
+### Backend
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://eu.badgr.com/public/assertions/jSs0OlceRE2C5ALr9aD6Yg)
+[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](#)
+
+### Database
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 
 ### Version Control
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/JCRL2J3MEACX)
@@ -15,7 +33,7 @@
 
 ### Kontakt
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alkanaziz@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alkan-aziz-60a694166/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alkanaziz/)
 
 
 <!---
