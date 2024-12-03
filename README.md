@@ -1,5 +1,4 @@
-- 👋 Hey, ich bin Alkan, ein leidenschaftlicher Webentwickler-Kandidat mit einer Vorliebe für Coding und Problemlösung, der die gemeinsame Zeit mit meiner Familie, insbesondere meinen Töchtern, schätzt.
-- 🌱 Wenn ich nicht in der Programmierung vertieft bin, findet man mich oft dabei, wundervolle Erinnerungen mit meiner Familie zu schaffen.
+- 👋 Hey, ich bin Alkan, ein leidenschaftlicher Webentwickler mit einer Vorliebe für Coding und Problemlösung.
 - 🦾 Ich bin ein Full-Stack Webentwickler, spezialisiert auf MERN Stack, der gerne Bugs 🕷️ produziert und behebt.
 
 ### Programming Languages
